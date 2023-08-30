@@ -1,1 +1,16 @@
-
+e-commerce-mern/
+|-- backend/
+|   |-- controllers/
+|   |   |-- userController.js
+|   |   |-- productController.js
+|   |   |-- orderController.js
+|   |
+|   |-- models/
+|   |   |-- User.js
+|   |   |-- Product.js
+|   |   |-- Order.js
+|   |
+|   |-- routes/
+|   |   |-- userRoutes.js
+|   |   |-- productRoutes.js
+|   |   |-- orderRoutes.js 
